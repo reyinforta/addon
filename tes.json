@@ -1,0 +1,566 @@
+{
+	"Ads": [{
+		"status": "0",
+		"link": "http://",
+		"pengaturan_iklan": "2",
+		"admob_open_ads": "",
+		"admob_banner": "",
+		"admob_inter": "",
+		"admob_native": "",
+		"interval": 1,
+		"fan_inter": "IMG_16_9_LINK#261922675587863_261924202254377",
+		"fan_banner": "IMG_16_9_LINK#261922675587863_261924035587727",
+		"fan_native": "IMG_16_9_LINK#261922675587863_261924405587690",
+		"startappid": ""
+	}],
+	"More": [
+
+	],
+	"Skin": [{
+			"id": 1,
+			"nama_skin": "Kawaii Pack 1",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/1aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/1a.png"
+		},
+		{
+			"id": 2,
+			"nama_skin": "Kawaii Pack 2",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/2aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/2a.png"
+		},
+		{
+			"id": 3,
+			"nama_skin": "Kawaii Pack 3",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/3aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/3a.png"
+		},
+		{
+			"id": 4,
+			"nama_skin": "Kawaii Pack 4",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/4aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/4a.png"
+		},
+		{
+			"id": 5,
+			"nama_skin": "Kawaii Pack 5",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/5aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/5a.png"
+		},
+		{
+			"id": 6,
+			"nama_skin": "Kawaii Pack 6",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/6aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/6a.png"
+		},
+		{
+			"id": 7,
+			"nama_skin": "Kawaii Pack 7",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/7aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/7a.png"
+		},
+		{
+			"id": 8,
+			"nama_skin": "Kawaii Pack 8",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/8aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/8a.png"
+		},
+		{
+			"id": 9,
+			"nama_skin": "Kawaii Pack 9",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/9aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/9a.png"
+		},
+		{
+			"id": 10,
+			"nama_skin": "Kawaii Pack 10",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/10aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/10a.png"
+		},
+		{
+			"id": 11,
+			"nama_skin": "Kawaii Pack 11",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/11aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/11a.png"
+		},
+		{
+			"id": 12,
+			"nama_skin": "Kawaii Pack 12",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/12aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/12a.png"
+		},
+		{
+			"id": 13,
+			"nama_skin": "Kawaii Pack 13",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/13aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/13a.png"
+		},
+		{
+			"id": 14,
+			"nama_skin": "Kawaii Pack 14",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/14aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/14a.png"
+		},
+		{
+			"id": 15,
+			"nama_skin": "Kawaii Pack 15",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/15aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/15a.png"
+		},
+		{
+			"id": 16,
+			"nama_skin": "Kawaii Pack 16",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/16aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/16a.png"
+		},
+		{
+			"id": 17,
+			"nama_skin": "Kawaii Pack 17",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/17aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/17a.png"
+		},
+		{
+			"id": 18,
+			"nama_skin": "Kawaii Pack 18",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/18aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/18a.png"
+		},
+		{
+			"id": 19,
+			"nama_skin": "Kawaii Pack 19",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/19aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/19a.png"
+		},
+		{
+			"id": 20,
+			"nama_skin": "Kawaii Pack 20",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/20aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/20a.png"
+		},
+		{
+			"id": 21,
+			"nama_skin": "Kawaii Pack 21",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/21aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/21a.png"
+		},
+		{
+			"id": 22,
+			"nama_skin": "Kawaii Pack 22",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/22aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/22a.png"
+		},
+		{
+			"id": 23,
+			"nama_skin": "Kawaii Pack 23",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/23aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/23a.png"
+		},
+		{
+			"id": 24,
+			"nama_skin": "Kawaii Pack 24",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/24aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/24a.png"
+		},
+		{
+			"id": 25,
+			"nama_skin": "Kawaii Pack 25",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/25aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/25a.png"
+		},
+		{
+			"id": 26,
+			"nama_skin": "Kawaii Pack 26",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/26aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/26a.png"
+		},
+		{
+			"id": 27,
+			"nama_skin": "Kawaii Pack 27",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/27aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/27a.png"
+		},
+		{
+			"id": 28,
+			"nama_skin": "Kawaii Pack 28",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/28aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/28a.png"
+		},
+		{
+			"id": 29,
+			"nama_skin": "Kawaii Pack 29",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/29aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/29a.png"
+		},
+		{
+			"id": 30,
+			"nama_skin": "Kawaii Pack 30",
+			"skin_url": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/30aa.png",
+			"view_skin": "https://raw.githubusercontent.com/bro-cell/kawaiimod/main/30a.png"
+		}
+	],
+	"Addons": [{
+      "id":1,
+      "nama_add":"Sonics Addon",
+      "add_url":"-",
+      "addB_url":"https://ia601507.us.archive.org/31/items/sncmap1/Sonic%20Addon%20%5BB%5D.mcpack",
+      "addR_url":"https://ia601507.us.archive.org/31/items/sncmap1/Sonic%20Addon%20%5BR%5D.mcpack",
+      "view_add":"https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikadon.JPG",
+      "des_add":"https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikadon.JPG"
+    },
+    {
+      "id":2,
+      "nama_add":"ATTACK OF TITAN MOD ADDON 2",
+      "add_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2.zip",
+      "addB_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(b).mcpack",
+      "addR_url":"https://rastariski01.github.io/attackoftitanmod/aotaddon2(r).mcpack",
+      "view_add":"https://raw.githubusercontent.com/bro-cell/modattacktit/main/ad2.png",
+      "des_add":"https://raw.githubusercontent.com/bro-cell/modattacktit/main/adon.html"
+    },
+	{
+			"id": 3,
+			"nama_add": "Mod Piggy Infection",
+			"add_url": "-",
+			"addB_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20B.mcpack",
+			"addR_url": "https://ia801505.us.archive.org/19/items/mappig1/Piggy%20Addon%20R.mcpack",
+			"view_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png",
+			"des_add": "https://my.mcpedl.com/storage/addons/3364/images/piggy-addon_3.png"
+		},
+		{
+			"id": 4,
+			"nama_add": "Guns",
+			"add_url": "https://archive.org/download/guns_20201003/Guns/guns.zip",
+			"addB_url": "https://archive.org/download/guns_20201003/Guns/guns-B.mcpack",
+			"addR_url": "https://archive.org/download/guns_20201003/Guns/guns-R.mcpack",
+			"view_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png",
+			"des_add": "https://ia801708.us.archive.org/14/items/guns_20201003/Guns/guns.png"
+		},
+		{
+			"id": 5,
+			"nama_add": "Actual Guns",
+			"add_url": "https://archive.org/download/Actualgun/Guns/Actualgun.zip",
+			"addB_url": "https://archive.org/download/Actualgun/Guns/Actualgun-B.mcpack",
+			"addR_url": "https://archive.org/download/Actualgun/Guns/Actualgun-R.mcpack",
+			"view_add": "https://ia601502.us.archive.org/27/items/Actualgun/Guns/actualguns.png",
+			"des_add": "https://ia801701.us.archive.org/33/items/Actualgun/Guns/actualguns.png"
+		},
+		{
+			"id": 6,
+			"nama_add": "Laser Guns",
+			"add_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns.zip",
+			"addB_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-B.mcpack",
+			"addR_url": "https://archive.org/download/Laserguns/Laser%20Guns/Laserguns-R.mcpack",
+			"view_add": "https://ia601509.us.archive.org/21/items/Laserguns/Laser%20Guns/laserguns.png",
+			"des_add": "https://ia801907.us.archive.org/13/items/Laserguns/Laser%20Guns/laserguns.png"
+		},
+		{
+			"id": 7,
+			"nama_add": "The Imposter",
+			"add_url": "https://archive.org/download/imposter_202010/Imposter/Imposter.zip",
+			"addB_url": "https://archive.org/download/imposter_202010/Imposter/Imposter-B.mcpack",
+			"addR_url": "https://archive.org/download/imposter_202010/Imposter/Imposter-R.mcpack",
+			"view_add": "https://ia601407.us.archive.org/1/items/imposter_202010/Imposter/theimposter.png",
+			"des_add": "https://ia801701.us.archive.org/22/items/imposter_202010/Imposter/theimposter.png"
+		},
+		{
+			"id": 8,
+			"nama_add": "Uncrafting Table",
+			"add_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable.zip",
+			"addB_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-B.mcpack",
+			"addR_url": "https://archive.org/download/Uncraftingtable/Uncrafting%20Table/Uncraftingtable-R.mcpack",
+			"view_add": "https://ia801401.us.archive.org/17/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png",
+			"des_add": "https://ia801709.us.archive.org/16/items/Uncraftingtable/Uncrafting%20Table/uncraftingtable.png"
+		},
+		{
+			"id": 9,
+			"nama_add": "Furniture",
+			"add_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture.zip",
+			"addB_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture-B.mcpack",
+			"addR_url": "https://archive.org/download/furniture_20201009_0341/Furniture/furniture-R.mcpack",
+			"view_add": "https://ia601400.us.archive.org/1/items/furniture_20201009_0341/Furniture/furniture.png",
+			"des_add": "https://ia801908.us.archive.org/7/items/furniture_20201009_0341/Furniture/furniture.png"
+		},
+		{
+			"id": 10,
+			"nama_add": "Dynamite Projectile Addon",
+			"add_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite.zip",
+			"addB_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite-B.mcpack",
+			"addR_url": "https://archive.org/download/dynamite_202010/Dynamite/dynamite-R.mcpack",
+			"view_add": "https://ia601509.us.archive.org/33/items/dynamite_202010/Dynamite/dynamite.png",
+			"des_add": "https://ia601702.us.archive.org/29/items/dynamite_202010/Dynamite/dynamite.png"
+		},
+		{
+			"id": 11,
+			"nama_add": "Number Blocks Addon",
+			"add_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks.zip",
+			"addB_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
+			"addR_url": "https://archive.org/download/blocks_202010/Number%20Blocks%20Addon/blocks-B.mcpack",
+			"view_add": "https://ia601504.us.archive.org/29/items/blocks_202010/Number%20Blocks%20Addon/blocks.png",
+			"des_add": "https://ia803202.us.archive.org/4/items/blocks_202010/Number%20Blocks%20Addon/blocks.png"
+		},
+        {
+            "id": 12,
+            "nama_add": "Damage Indicators",
+            "add_url": "http://danie.alienhosted.com/addon/damage-indicator.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/damage-indicatorB.mcaddon",
+            "addR_url": "http://danie.alienhosted.com/addon/damage-indicatorR.mcaddon",
+            "view_add": "https://fmcpe.com/uploads/posts/2020-06/1593180923_damage-indicators.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/damage-indicator.html"
+        },
+        {
+            "id": 13,
+            "nama_add": "Iceologer",
+            "add_url": "http://danie.alienhosted.com/addon/iceologer.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/iceologerB.mcaddon",
+            "addR_url": "http://danie.alienhosted.com/addon/iceologerR.mcaddon",
+            "view_add": "https://fmcpe.com/uploads/posts/2020-10/1602515222_iceloger-2.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/iceologer.html"
+        },
+        {
+            "id": 14,
+            "nama_add": "Loot Bags",
+            "add_url": "http://danie.alienhosted.com/addon/lootbags.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/lootbags B.mcaddon",
+            "addR_url": "http://danie.alienhosted.com/addon/lootbags R.mcaddon",
+            "view_add": "https://fmcpe.com/uploads/posts/2020-07/1595197170_lootbags-1.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/lootbags.html"
+        },
+        {
+            "id": 15,
+            "nama_add": "More Structures",
+            "add_url": "http://danie.alienhosted.com/addon/more-structures.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/v2_6-more-structures-bp.mcaddon",
+            "addR_url": "http://danie.alienhosted.com/addon/v2_6-more-structures-rp.mcaddon",
+            "view_add": "https://fmcpe.com/uploads/posts/2020-07/1594126152_small-structures-5.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/more-structures.html"
+        },
+        {
+            "id": 16,
+            "nama_add": "Warden mob",
+            "add_url": "http://danie.alienhosted.com/addon/warden-replicas.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/warden-replicas-bp-by-ilosemypotato.mcpack",
+            "addR_url": "http://danie.alienhosted.com/addon/warden-replicas-by-ilosemypotato.mcpack",
+            "view_add": "https://fmcpe.com/uploads/posts/2020-10/1603045853_warden-1.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/warden-replicas.html"
+        },
+        {
+            "id": 17,
+            "nama_add": "Alien Invasion",
+            "add_url": "http://danie.alienhosted.com/addon/x-ray.zip",
+            "addB_url": "http://danie.alienhosted.com/addon/x-ray-B.mcpack",
+            "addR_url": "http://danie.alienhosted.com/addon/x-ray-R.mcpack",
+            "view_add": "https://fmcpe.com/uploads/posts/2016-10/1477742312_alien-invasion-map-addon.jpg",
+            "des_add": "http://danie.alienhosted.com/addon/x-ray.html"
+        }
+	],
+	"Maps": [{
+      "id":1,
+      "nama_map":"Pink Mansion Kawaii",
+      "map_url":"https://raw.githubusercontent.com/bro-cell/kawaiimod/main/Pink%20Mansion%20Kawaii.zip",
+      "view_map":"https://mcpedl.com/wp-content/uploads/2016/07/kawaii-world-4.jpg",
+      "des_map":"https://mcpedl.com/wp-content/uploads/2016/07/kawaii-world-4.jpg"
+    },
+	{
+			"id": 2,
+			"nama_map": "Map Sonics Parkour",
+			"map_url": "https://ia601507.us.archive.org/31/items/sncmap1/Sonic%20Map%201.0.5.zip",
+			"view_map": "https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikmap.JPG",
+			"des_map": "https://raw.githubusercontent.com/bro-cell/soniiksbum/main/snikmap.JPG"
+		},
+		{
+			"id": 3,
+			"nama_map": "Game Piggy Mod Infection",
+			"map_url": "https://ia601501.us.archive.org/17/items/piggy1/Piggyhorror.zip",
+			"view_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png",
+			"des_map": "https://mcpedl.com/wp-content/uploads/2020/06/piggy-in-minecraft_1-520x245.png"
+		},
+		{
+			"id": 4,
+			"nama_map": "Among Us Map",
+			"map_url": "https://archive.org/download/map_20201005/Among-us-Map.zip",
+			"view_map": "https://ia801407.us.archive.org/15/items/map_20201005/Map/among-us-map-addon_2.png",
+			"des_map": "https://ia803204.us.archive.org/33/items/map_20201005/Map/among-us-map-addon_2.png"
+		},
+		{
+			"id": 5,
+			"nama_map": "Among Craft",
+			"map_url": "https://archive.org/download/amongcraft/Among%20Craft/amongcraft.zip",
+			"view_map": "https://ia601409.us.archive.org/22/items/amongcraft/Among%20Craft/amongcraft.png",
+			"des_map": "https://ia801706.us.archive.org/20/items/amongcraft/Among%20Craft/amongcraft.png"
+		},
+		{
+			"id": 6,
+			"nama_map": "Cubical's Tower",
+			"map_url": "https://archive.org/download/Cubicalstower/Cubical%E2%80%99s%20Tower/Cubicalstower.zip",
+			"view_map": "https://ia601502.us.archive.org/3/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png",
+			"des_map": "https://ia801905.us.archive.org/22/items/Cubicalstower/Cubical%E2%80%99s%20Tower/cubicalstower.png"
+		},
+		{
+			"id": 7,
+			"nama_map": "Among Us Craft",
+			"map_url": "https://archive.org/download/amonguscraft/Among%20Us%20Craft/amonguscraft.zip",
+			"view_map": "https://ia601509.us.archive.org/19/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png",
+			"des_map": "https://ia801906.us.archive.org/13/items/amonguscraft/Among%20Us%20Craft/amonguscraft.png"
+		},
+		{
+			"id": 8,
+			"nama_map": "Achievement World",
+			"map_url": "https://archive.org/download/achievementworld/Achievement%20World/achievementworld.zip",
+			"view_map": "https://ia601408.us.archive.org/31/items/achievementworld/Achievement%20World/achievementworld.png",
+			"des_map": "https://ia801708.us.archive.org/28/items/achievementworld/Achievement%20World/achievementworld.png"
+		},
+		{
+			"id": 9,
+			"nama_map": "SCP:CB LC Edition",
+			"map_url": "https://archive.org/download/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.zip",
+			"view_map": "https://ia601405.us.archive.org/25/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png",
+			"des_map": "https://ia801703.us.archive.org/11/items/scpcb_20201016/SCPCB%20LC%20Edition/scpcb.png"
+		},
+		{
+			"id": 10,
+			"nama_map": "HardCoreLine",
+			"map_url": "https://archive.org/download/hardcoreline/Hard%20Core%20Line/hardcoreline.zip",
+			"view_map": "https://ia601407.us.archive.org/27/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png",
+			"des_map": "https://ia801709.us.archive.org/30/items/hardcoreline/Hard%20Core%20Line/hardcoreline.png"
+		},
+		{
+			"id": 11,
+			"nama_map": "Bedrock Auto Chicken",
+			"map_url": "https://archive.org/download/bedrock_202010/Bedrock/Bedrock.zip",
+			"view_map": "https://ia601500.us.archive.org/25/items/bedrock_202010/Bedrock/bedrock.png",
+			"des_map": "https://ia801908.us.archive.org/7/items/bedrock_202010/Bedrock/bedrock.png"
+		},
+        {
+            "id": 12,
+            "nama_map": "Blood Evening horror map for Minecraft PE 1.0.0",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/blood-evening.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-12/1481028839_blood-evening-horror-map.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/BloodEveninghorrormap.html"
+        },
+        {
+            "id": 13,
+            "nama_map": "Last day on Earth map for Minecraft PE 1.16.1",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/last-day-on-earth-legacy-version-31052020.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-11/1509884028_last-day-on-earth-map-1.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/LastdayonEarthmap.html"
+        },
+        {
+            "id": 14,
+            "nama_map": "Marine Explorer map for Minecraft PE 1.16.20",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/marine-biologist-roleplay.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2020-08/1598188203_marine-explorer-2.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/MarineExplorermap.html"
+        },
+        {
+            "id": 15,
+            "nama_map": "Mario Galaxy map for Minecraft PE 1.0.4",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/mario-64-full-map.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-03/1489495527_mario-galaxy-minecraft-pe.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/MarioGalaxymap.html"
+        },
+        {
+            "id": 16,
+            "nama_map": "Mechanics Apocalypse map for Minecraft PE 1.1.4",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-07/1501082307_mechanics-apocalypse-map.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypsemap.html"
+        },
+        {
+            "id": 17,
+            "nama_map": "Mechanical Apocalypse 2 map for Minecraft PE 1.1.0",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-2.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-06/1496656391_mechanical-apocalypse-map-pe.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/MechanicalApocalypse2map.html"
+        },
+        {
+            "id": 18,
+            "nama_map": "Mechanics Apocalypse 3 for Minecraft PE 1.1.5",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-3.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-08/1502177087_mechanics-apocalypse-3.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypse3.html"
+        },
+        {
+            "id": 19,
+            "nama_map": "Radiator Springs map for Minecraft PE 1.0.8",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/carsland-ported.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-05/1494682985_lightning-mcqueen-in-minecraft.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/RadiatorSpringsmap.html"
+        },
+        {
+            "id": 20,
+            "nama_map": "Realm of Beturune map for Minecraft PE 1.16.1",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2020-06/1593541429_beturune-realm-2.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.html"
+        },
+        {
+            "id": 21,
+            "nama_map": "Saving Santa map for Minecraft PE 1.0.0",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/SavingSantamap.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-12/1482429450_santa-claus-in-minecraft.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/SavingSantamap.html"
+        },
+        {
+            "id": 22,
+            "nama_map": "Subnautica map for Minecraft PE 1.14.1",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/subnautica.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2019-12/1576869666_subnautica-map-2.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/Subnauticamap.html"
+        },
+        {
+            "id": 23,
+            "nama_map": "The Building of Villager map",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/the-building-of-villager.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2015-09/1441264871_villager.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/TheBuildingofVillagermap.html"
+        },
+        {
+            "id": 24,
+            "nama_map": "The Fall of Heaven map",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/the-fall-of-heaven-by-lordguntaz-smashpe-1.0.0.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-09/1474623665_the-fall-of-heaven-3.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/TheFallofHeavenmap.html"
+        },
+        {
+            "id": 25,
+            "nama_map": "The Legend of Zelda map for Minecraft PE 1.0.3",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/link-to-the-pastmapa.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2017-03/1488899772_link-legend-of-zelda-in-mcpe.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/TheLegendofZeldamap.html"
+        },
+        {
+            "id": 26,
+            "nama_map": "The Walking Dead map",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/twd-bean.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/TheWalkingDeadmap.html"
+        },
+        {
+            "id": 27,
+            "nama_map": "Turok Dimension map",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/turok-bundle-update-1.2.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-10/1476367536_turok-dimension-map-pe.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/TurokDimensionmap.html"
+        },
+        {
+            "id": 28,
+            "nama_map": "VerseCrafter: The Beginning map",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/versecrafter-the-beginning-update-4.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/VerseCrafterTheBeginningmap.html"
+        },
+        {
+            "id": 29,
+            "nama_map": "Visions of Time",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/v.ot-map-v0.2.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-09/1474617264_visions-of-time-1.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/VisionsofTime.html"
+        },
+        {
+            "id": 30,
+            "nama_map": "Alien Invasion map for Minecraft PE 0.16.0",
+            "map_url": "http://danie.alienhosted.com/mapsminecraft/alien-invasion.605d227de07b.zip",
+            "view_map": "https://fmcpe.com/uploads/posts/2016-10/1477742258_alien-invasion-spaceships.jpg",
+            "des_map": "http://danie.alienhosted.com/mapsminecraft/AlienInvasionmapforMinecraftPE.html"
+        }
+	]
+
+}
